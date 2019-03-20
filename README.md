@@ -6,5 +6,5 @@ Wszystko co potrzebujesz wiedzieć w jednym miejscu.
 
 ## Lekcje:
 1.  [Regresja Liniowa](AI/LinearRegression.html)
-1.  [Klasyfikacja Metodą K Najbliższych Sąsiadów](AI/KNN.html)
-
+2.  [Klasyfikacja Metodą K Najbliższych Sąsiadów](AI/KNN.html)
+3.  [Walidacja Krzyżowa] (AI/Cross-Validation.html)
