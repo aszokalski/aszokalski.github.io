@@ -39,10 +39,6 @@
   duration: Oct 2023 - Jan 2024
   description: |
     Led and mentored a team of 5 developers to design, develop, and deploy a complex full-stack platform.
-    - Backend Development
-    - Deployment
-    - Team Leadership
-    - Frontend Mentorship
   technologies:
     - Next.js
     - React
@@ -50,6 +46,19 @@
     - PostgreSQL
     - Vercel
   url: https://belfri.vercel.app/
+
+- project: Equalizer plugin for DAWs
+  role: DSP Developer & Project Leader
+  duration: Feb 2023 - Jun 2023
+  description: |
+    A simple equalizer plugin written in JUCE
+  technologies:
+    - Modern C++
+    - JUCE framework
+    - CMake
+  url: https://github.com/aszokalski/PROI-Equalizer
+  image: https://github.com/aszokalski/PROI-Equalizer/raw/main/example.gif
+
 
 - project: Vector graphics editor in x86 Assembly
   role: Sole Developer
@@ -61,6 +70,7 @@
     - C
     - OpenGL
   url: https://github.com/aszokalski/Bezier-x86
+  image: https://github.com/aszokalski/Bezier-x86/raw/main/demo.gif
 
 - project: File encryption tool in RISC V Assembly
   role: Sole Developer
@@ -72,13 +82,46 @@
     - RARS
   url: https://github.com/aszokalski/risc-v-xxtea
 
+- project: Navigational Assistance System for the Visually Impaired
+  role: Sensor Developer & Project Lead
+  duration: Oct 2022 - Feb 2023
+  description: |
+    A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands.
+    <b>My responsibilities:</b>
+    <ul class="resume-item-list">
+    <li> BLE Connectivity </li>
+    <li> Sensor development </li>
+    <li> Mentoring an inexperienced team - teaching React </li>
+    </ul>
+  technologies:
+    - BLE
+    - React Native
+    - ESP32
+    - GPS algorithms
+  url: https://github.com/Faculty-guide-dog-app-team/Faculty-guide-dog-app
+
+- project: Battleships game in Python
+  role: Sole Developer
+  duration: Jan 2023 - Feb 2023
+  description: Battleships game with AI opponent written in Python and curses
+  technologies:
+    - Python
+    - Pytest
+    - Curses
+  url: https://github.com/aszokalski/Battleships
+  image: https://github.com/aszokalski/Battleships/raw/main/docs/imgs/boardSetup.png
+
 - project: Collaborative mind mapping desktop app
-  role: Desktop Client Developer & Frontend Developer
-  duration: 2022
+  role: Desktop Client & Frontend Developer
+  duration: 2020 - 2021
   description: |
     A cross-platform desktop app for collaborative mind mapping and note-taking.
-    - Desktop client development
-    - Frontend and WebRTC connectivity
+    <b>My responsibilities:</b>
+    <ul class="resume-item-list">
+    <li> Frontend </li>
+    <li> Client app </li>
+    <li> Real-time collaboration </li>
+    </ul>
   technologies:
     - React
     - Electron
@@ -88,28 +131,16 @@
   url: https://github.com/aszokalski/Grapha-Mind
   image: https://github.com/aszokalski/Grapha-Mind/raw/master/other/demo1.png
 
-- project: Navigational Assistance System for the Visually Impaired
-  role: Sensor Developer & Mentor
-  duration: Oct 2022 - Feb 2023
-  description: |
-    A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands.
-    - Sensor development
-    - App Bluetooth connectivity
-    - Mentorship of 4 inexperienced students
-  technologies:
-    - BLE
-    - React Native
-    - ESP32
-    - GPS algorithms
-  url: https://github.com/Faculty-guide-dog-app-team/Faculty-guide-dog-app
-
 - project: Online meetings summarizer
   role: Project Lead & Developer
   duration: Jun. 2020
   description: |
     <u>HackYeah 2020 Winning Project</u>. A web application that creates interactive summaries of online meetings using AI.
-    - Speech recognition model
-    - Interactive frontend
+    <b>My responsibilities:</b>
+    <ul class="resume-item-list">
+    <li> Speech recognition model </li>
+    <li> Interactive frontend </li>
+    </ul>
   technologies:
     - Python
     - Pandas

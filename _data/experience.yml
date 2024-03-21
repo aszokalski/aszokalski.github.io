@@ -5,9 +5,9 @@
   summary: I mentored and led a team of 5 developers to design, develop, and deploy a complex full-stack platform	<ul class="resume-item-list"><li> <b> Responsibilities:</b> Team leading, System design, Database & API Development</li><li><b>Technologies:</b> Next.js, TypeScript, PostgreSQL, Vercel</li></ul>
 
 - company: <a href="https://blockchainlab.com.pl">Blockchain LAB</a>
-  position: Fullstack Software Developer
+  position: Junior Fullstack Software Developer
   duration:  Feb 2023 &mdash; Oct 2023
-  summary: Solely developed an A/B Testing client platform and an interactive drag-and-drop rule editor. <ul class="resume-item-list"><li> <b> Responsibilities:</b> Front-End development, Design, Linking with API.</li><li><b>Technologies:</b> Next.js, Nx multirepo, GoJS, TypeScript, Jest, Swagger API.</li></ul>
+  summary: Developed an A/B Testing client platform and an interactive drag-and-drop rule editor. <ul class="resume-item-list"><li> <b> Responsibilities:</b> Front-End development, Design, Linking with API.</li><li><b>Technologies:</b> Next.js, Nx multirepo, GoJS, TypeScript, Jest, Swagger API.</li></ul>
 
 - company: <a href="https://github.com/aszokalski/Grapha-Mind">1Mind</a>
   position: Co-founder & CEO & Lead Developer 
