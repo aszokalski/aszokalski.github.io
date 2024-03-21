@@ -1,19 +1,15 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: <a href="https://belfri.vercel.app">Belfri</a>
+  position: Co-founder & CEO & Lead Developer 
+  duration: Jan, 2024 &mdash; Present
+  summary: I mentored and led a team of 5 developers to design, develop, and deploy a complex full-stack platform	<ul class="resume-item-list"><li> <b> Responsibilities:</b> Team leading, System design, Database & API Development</li><li><b>Technologies:</b> Next.js, TypeScript, PostgreSQL, Vercel</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: <a href="https://blockchainlab.com.pl">Blockchain LAB</a>
+  position: Fullstack Software Developer
+  duration:  Feb. 2023 &mdash; Oct. 2023
+  summary: Solely developed an A/B Testing client platform and an interactive drag-and-drop rule editor. <ul class="resume-item-list"><li> <b> Responsibilities:</b> Front-End development, Design, Linking with API.</li><li><b>Technologies:</b> Next.js, Nx multirepo, GoJS, TypeScript, Jest, Swagger API.</li></ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: 1Mind
+  position: Co-founder & CEO & Lead Developer 
+  duration:   Dec 2019 &mdash; Oct 2022
+  summary: Founded an educational startup aimed at creating notes for students using AI 	<ul class="resume-item-list"><li> Developed software, performed market analysis, performed customer interviews, prepared pitch decks, talked with VCs, negotiated, and received a $400k investment</li><li>Won TeenCrunch Best Startup award and got invited to SparkTeen</li></ul>
