@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "+48 669 336 281 • szokalskiadam@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p> Hello! I'm Adam, I'm a Software Engineer with a passion for pushing the boundaries in software, particularly in the realms of AI and DSP. With a track record of winning hackathons and leading projects, I bring innovation and creativity to every task. I'm particularly eager to further explore the fascinating world of AI and expand my expertise in this field. I'm excited about the opportunity to contribute my skills to your team and drive positive change in the tech world. Looking forward to connecting and exploring potential opportunities together! </p>"
+resume_header_intro: "<p> Hello! I'm Adam, I'm a Software Engineer with a passion for pushing the boundaries in software, particularly in the realms of AI and DSP. With a track record of winning hackathons and leading projects, I bring innovation and creativity to every task.</p>"
   
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
