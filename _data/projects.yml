@@ -86,9 +86,9 @@
   role: Sensor Developer & Project Lead
   duration: Oct 2022 - Feb 2023
   description: |
-    A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands.
+    A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands. <br/> <br/>
 
-       <h4 class="resume-item-details">My responsibilities:</h4>
+       <h4 class="resume-item-details">My responsibilities:</h4> 
     <ul class="resume-item-list">
     <li> BLE Connectivity </li>
     <li> Sensor development </li>
@@ -116,8 +116,7 @@
   role: Desktop Client & Frontend Developer
   duration: 2020 - 2021
   description: |
-    A cross-platform desktop app for collaborative mind mapping and note-taking.
-
+    A cross-platform desktop app for collaborative mind mapping and note-taking. <br/> <br/>
        <h4 class="resume-item-details">My responsibilities:</h4>
     <ul class="resume-item-list">
     <li> Frontend </li>
@@ -137,7 +136,7 @@
   role: Project Lead & Developer
   duration: Jun. 2020
   description: |
-    <u>HackYeah 2020 Winning Project</u>. A web application that creates interactive summaries of online meetings using AI.
+    <u>HackYeah 2020 Winning Project</u>. A web application that creates interactive summaries of online meetings using AI. <br/> <br/>
 
        <h4 class="resume-item-details">My responsibilities:</h4>
     <ul class="resume-item-list">
