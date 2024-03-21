@@ -1,16 +1,120 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: Online meetings summarizer - HackYeah 2020 winning project
+  role: Project Lead & Developer
+  duration: Oct. 2022 – Feb. 2026
+  description: |
+    A web application that creates interactive summaries of online meetings using AI.
+    - Speech recognition model
+    - Interactive frontend
+  technologies:
+    - Python
+    - Pandas
+    - Flask
+    - Bootstrap
+    - Jinja
+    - Google Cloud
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Python framework for creating VST audio plugins
+  role: Core Contributor & Project Leader
+  duration: Oct. 2023 - ongoing
+  description: |
+    A wrapper around JUCE framework that makes plugin development easy and accessible.
+    - Core contributor
+    - Project leader @ WUT
+  technologies:
+    - Python
+    - C++
+    - pybind11
+    - JUCE framework
+    - CMake
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Python peer-to-peer library
+  role: Sole Developer
+  duration: PyPI GitHub
+  description: |
+    A simple Python peer-to-peer networking library based on Chord.
+  technologies:
+    - Python
+    - Sockets
+
+- project: Educational AI Library in Python
+  role: Sole Developer
+  duration: Oct. 2023 - Jan. 2024
+  description: |
+    Python implementations and experiments on popular AI algorithms.
+    - Neural Networks
+    - Support Vector Machines
+    - Bayesian Networks
+    - Gradient Descent
+    - Back-propagation
+    - Evolutionary Algorithms
+    - Q Learning
+  technologies:
+    - Python
+    - Numpy
+    - Jupyter
+    - Matplotlib
+    - Gymnasium
+    - SKlearn datasets
+
+- project: Fullstack tutoring platform
+  role: Backend Developer & Team Lead
+  duration: Oct. 2023 - Jan. 2024
+  description: |
+    Led and mentored a team of 5 developers to design, develop, and deploy a complex full-stack platform.
+    - Backend Development
+    - Deployment
+    - Team Leadership
+    - Frontend Mentorship
+  technologies:
+    - Next.js
+    - React
+    - TypeScript
+    - PostgreSQL
+    - Vercel
+
+- project: Vector graphics editor in x86 Assembly
+  role: Sole Developer
+  duration: Mar. 2023 - Apr. 2023
+  description: |
+    A vector graphics editor designed to work efficiently by implementing the Bézier curve algorithm in machine code instructions.
+  technologies:
+    - x86 Assembly
+    - C
+    - OpenGL
+
+- project: File encryption tool in RISC V Assembly
+  role: Sole Developer
+  duration: Feb. 2023 - Mar. 2023
+  description: |
+    A file encryption tool implementing a secure XXTEA encryption algorithm entirely in machine code of a modern mobile CPU Architecture.
+  technologies:
+    - RISC V
+    - RARS
+
+- project: Collaborative mind mapping desktop app
+  role: Desktop Client Developer & Frontend Developer
+  duration: 2022
+  description: |
+    A cross-platform desktop app for collaborative mind mapping and note-taking.
+    - Desktop client development
+    - Frontend and WebRTC connectivity
+  technologies:
+    - React
+    - Electron
+    - GoJS
+    - TypeScript
+    - WebRTC
+
+- project: Navigational Assistance System for the Visually Impaired
+  role: Sensor Developer & Mentor
+  duration: Oct. 2022 - Feb. 2023
+  description: |
+    A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands.
+    - Sensor development
+    - App Bluetooth connectivity
+    - Mentorship of 4 inexperienced students
+  technologies:
+    - BLE
+    - React Native
+    - ESP32
+    - GPS algorithms
