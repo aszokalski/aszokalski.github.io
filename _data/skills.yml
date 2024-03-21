@@ -1,12 +1,59 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: "Programming Languages"
+  description: |
+    <ul class="resume-item-list">
+      <li> Python </li>
+      <li> TypeScript </li>
+      <li> C++ </li>
+      <li> C </li>
+      <li> x86 Assembly </li>
+      <li> RISC V Assembly </li>
+      <li> PL/SQL </li>
+    </ul>
+- skill: "Frameworks"
+  description: |
+    <ul class="resume-item-list">
+      <li> JUCE </li>
+      <li> React </li>
+      <li> Next.js </li>
+      <li> Nx multirepo </li>
+    </ul>
+- skill: "Databases"
+  description: |
+    <ul class="resume-item-list">
+      <li> OracleSQL </li>
+      <li> PostgreSQL </li>
+      <li> MongoDB </li>
+    </ul>
+- skill: "Libraries"
+  description: |
+    <ul class="resume-item-list">
+      <li> Numpy </li>
+      <li> Pandas </li>
+      <li> PyTorch </li>
+      <li> pybind11 </li>
+      <li> GoJS </li>
+      <li> Ant Design UI </li>
+    </ul>
+- skill: "DevOps Technologies & Tools"
+  description: |
+    <ul class="resume-item-list">
+      <li> AWS Amplify </li>
+      <li> Vercel </li>
+      <li> Google Cloud </li>
+      <li> GitHub Actions </li>
+    </ul>
+- skill: "Soft Skills"
+  description: |
+    <ul class="resume-item-list">
+      <li> Team Leading </li>
+      <li> Presenting </li>
+      <li> Pitching </li>
+      <li> Customer Interviews </li>
+      <li> SCRUM </li>
+    </ul>
+- skill: "Spoken Languages"
+  description: |
+    <ul class="resume-item-list">
+      <li> Polish: Native </li>
+      <li> English: C2 </li>
+    </ul>
