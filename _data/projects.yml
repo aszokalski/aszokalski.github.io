@@ -87,6 +87,7 @@
   duration: Oct 2022 - Feb 2023
   description: |
     A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands.
+    <br/>
     <b>My responsibilities:</b>
     <ul class="resume-item-list">
     <li> BLE Connectivity </li>
@@ -116,6 +117,7 @@
   duration: 2020 - 2021
   description: |
     A cross-platform desktop app for collaborative mind mapping and note-taking.
+    <br/>
     <b>My responsibilities:</b>
     <ul class="resume-item-list">
     <li> Frontend </li>
@@ -136,6 +138,7 @@
   duration: Jun. 2020
   description: |
     <u>HackYeah 2020 Winning Project</u>. A web application that creates interactive summaries of online meetings using AI.
+    <br/>
     <b>My responsibilities:</b>
     <ul class="resume-item-list">
     <li> Speech recognition model </li>
