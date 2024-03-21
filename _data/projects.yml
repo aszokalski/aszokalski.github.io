@@ -1,8 +1,8 @@
-- project: Online meetings summarizer - HackYeah 2020 winning project
+- project: Online meetings summarizer
   role: Project Lead & Developer
-  duration: Oct. 2022 – Feb. 2026
+  duration: Jun. 2020
   description: |
-    A web application that creates interactive summaries of online meetings using AI.
+    <u>HackYeah 2020 Winning Project</u>. A web application that creates interactive summaries of online meetings using AI.
     - Speech recognition model
     - Interactive frontend
   technologies:
@@ -15,11 +15,9 @@
 
 - project: Python framework for creating VST audio plugins
   role: Core Contributor & Project Leader
-  duration: Oct. 2023 - ongoing
+  duration: Oct 2023 - ongoing
   description: |
     A wrapper around JUCE framework that makes plugin development easy and accessible.
-    - Core contributor
-    - Project leader @ WUT
   technologies:
     - Python
     - C++
@@ -29,7 +27,7 @@
 
 - project: Python peer-to-peer library
   role: Sole Developer
-  duration: PyPI GitHub
+  duration: 2019
   description: |
     A simple Python peer-to-peer networking library based on Chord.
   technologies:
@@ -38,16 +36,18 @@
 
 - project: Educational AI Library in Python
   role: Sole Developer
-  duration: Oct. 2023 - Jan. 2024
+  duration: Oct 2023 - Jan 2024
   description: |
     Python implementations and experiments on popular AI algorithms.
-    - Neural Networks
-    - Support Vector Machines
-    - Bayesian Networks
-    - Gradient Descent
-    - Back-propagation
-    - Evolutionary Algorithms
-    - Q Learning
+    <ul class="resume-item-list">
+    <li> Neural Networks </li>
+    <li> Support Vector Machines </li>
+    <li> Bayesian Networks </li>
+    <li> Gradient Descent </li>
+    <li> Back-propagation </li>
+    <li> Evolutionary Algorithms </li>
+    <li> Q Learning </li>
+    </ul>
   technologies:
     - Python
     - Numpy
@@ -58,7 +58,7 @@
 
 - project: Fullstack tutoring platform
   role: Backend Developer & Team Lead
-  duration: Oct. 2023 - Jan. 2024
+  duration: Oct 2023 - Jan 2024
   description: |
     Led and mentored a team of 5 developers to design, develop, and deploy a complex full-stack platform.
     - Backend Development
@@ -74,7 +74,7 @@
 
 - project: Vector graphics editor in x86 Assembly
   role: Sole Developer
-  duration: Mar. 2023 - Apr. 2023
+  duration: Mar 2023 - Apr 2023
   description: |
     A vector graphics editor designed to work efficiently by implementing the Bézier curve algorithm in machine code instructions.
   technologies:
@@ -84,7 +84,7 @@
 
 - project: File encryption tool in RISC V Assembly
   role: Sole Developer
-  duration: Feb. 2023 - Mar. 2023
+  duration: Feb 2023 - Mar 2023
   description: |
     A file encryption tool implementing a secure XXTEA encryption algorithm entirely in machine code of a modern mobile CPU Architecture.
   technologies:
@@ -107,7 +107,7 @@
 
 - project: Navigational Assistance System for the Visually Impaired
   role: Sensor Developer & Mentor
-  duration: Oct. 2022 - Feb. 2023
+  duration: Oct 2022 - Feb 2023
   description: |
     A mobile app that connects to esp32 sensors using BLE, determines the user’s location, and helps to navigate the faculty using voice commands.
     - Sensor development
