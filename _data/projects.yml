@@ -86,6 +86,7 @@
     - TypeScript
     - WebRTC
   url: https://github.com/aszokalski/Grapha-Mind
+  image: https://github.com/aszokalski/Grapha-Mind/raw/master/other/demo1.png
 
 - project: Navigational Assistance System for the Visually Impaired
   role: Sensor Developer & Mentor
